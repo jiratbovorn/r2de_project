@@ -89,6 +89,7 @@ The project also explores advanced topics like data warehousing with Google BigQ
 <ul>
   <li>Book title and revenue based on criteria (<em>min_revenue</em>)</li>
 </ul>
+<a href="https://lookerstudio.google.com/s/izeffAkI_VY" target="_blank">Click here to view the Dashboard</a>
 <br>
 
 <h2>Conclusion</h2>

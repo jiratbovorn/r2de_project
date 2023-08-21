@@ -20,3 +20,6 @@ The project also explores advanced topics like data warehousing with Google BigQ
   <li>Looker Studio</li>
 </ul>
 
+<h2>Workflow Overview</h2>
+![Workflow Diagram](Picture/project flow.PNG)
+

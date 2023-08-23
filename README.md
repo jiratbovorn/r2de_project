@@ -22,18 +22,18 @@ The project also explores advanced topics like data warehousing with Google BigQ
 
 <h2>Workflow Overview</h2>
 
-![Workflow Diagram](Picture/project%20flow.PNG)
+![Workflow Diagram](pics/project%20flow.PNG)
 <p align="center"><em>Workflow diagram</em></p>
 <br>
 
 <h2> Workshop 1: Data Collection & Integration with Pandas</h2>
 <p>Aggregated data from various sources, including MySQL databases and REST APIs, utilizing techniques such as requests and Pandas.</p>
 
-![Audible data](Picture/audible_data.PNG)
+![Audible data](pics/audible_data.PNG)
 <p align="center"><em>Example of audible data dataset</em></p>
 <br>
 
-![Audible transaction](Picture/audible_transaction.PNG)
+![Audible transaction](pics/audible_transaction.PNG)
 <p align="center"><em>Example of audible transaction dataset</em></p>
 <br>
 
@@ -41,7 +41,7 @@ The project also explores advanced topics like data warehousing with Google BigQ
 <h2> Workshop 2: Data Cleansing with Apache Spark</h2>
 <p>Performed initial Exploratory Data Analysis (EDA) and data manipulation using Spark on Google Colab. This included exploratory data mining to unveil insights and patterns.</p>
 
-![Final df](Picture/final_df.PNG)
+![Final df](pics/final_df.PNG)
 <p align="center"><em>Final dataset</em></p>
 <br>
 
@@ -49,7 +49,7 @@ The project also explores advanced topics like data warehousing with Google BigQ
 <h2> Workshop 3: Intro to Google Cloud & Google Cloud Storage</h2>
 <p>Experimented with Cloud Storage for file uploads and explored fundamental command-line operations using Cloud Shell.</p>
 
-![GCS](Picture/gcs.PNG)
+![GCS](pics/gcs.PNG)
 <p align="center"><em>Google Cloud Storage</em></p>
 <br>
 
@@ -60,7 +60,7 @@ The project also explores advanced topics like data warehousing with Google BigQ
 <h2> Workshop 5: Building a Big Data Warehouse with BigQuery</h2>
 <p>Learned to use Google BigQuery and integrated it with Apache Airflow, a progression from Workshop 4. This integration enabled me to automate the transfer of data from Google Cloud Storage into Google BigQuery, streamlining the data pipeline process. Subsequently, I generated view from audible_data table within Google BigQuery to show only necessary columns for the visualization</p>
 
-![Google BigQuery](Picture/bigquery.PNG)
+![Google BigQuery](pics/bigquery.PNG)
 <p align="center"><em>Google BigQuery</em></p>
 <br>
 
@@ -69,7 +69,7 @@ The project also explores advanced topics like data warehousing with Google BigQ
 <p>Developed data visualization dashboard using Looker Studio, using data derived from BigQuery. The dashboard assists the product and marketing teams in their decision-making processes.</p>
 <br>
 
-![Dashboard1](Picture/dashboard_1.PNG)
+![Dashboard1](pics/dashboard_1.PNG)
 <p align="center"><em>Dashboard 1</em></p>
 
 <p>Presented summarized information from Dashboard 1 includes:</p>
@@ -82,7 +82,7 @@ The project also explores advanced topics like data warehousing with Google BigQ
 </ul>
 <br>
 
-![Dashboard2](Picture/dashboard_2.PNG)
+![Dashboard2](pics/dashboard_2.PNG)
 <p align="center"><em>Dashboard 2</em></p>
 
 <p>Presented summarized information from Dashboard 2 includes:</p>
